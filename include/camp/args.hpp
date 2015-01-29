@@ -1,6 +1,6 @@
 #pragma once
 
-#include <camp/config.hpp>
+#include "camp/config.hpp"
 #include <vector>
 
 namespace camp {
