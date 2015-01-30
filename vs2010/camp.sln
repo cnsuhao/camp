@@ -5,6 +5,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{22B3C7C7
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "compileonly", "tests\compileonly.vcxproj", "{798429D6-173F-4A02-A3C6-116148B336CD}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "libs", "libs", "{05211123-D95B-45F1-84A2-B25FF51F851C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libcamp", "libs\libcamp.vcxproj", "{D026C0DD-A909-456D-B27F-29F2119F7D80}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -15,11 +19,16 @@ Global
 		{798429D6-173F-4A02-A3C6-116148B336CD}.Debug|Win32.Build.0 = Debug|Win32
 		{798429D6-173F-4A02-A3C6-116148B336CD}.Release|Win32.ActiveCfg = Release|Win32
 		{798429D6-173F-4A02-A3C6-116148B336CD}.Release|Win32.Build.0 = Release|Win32
+		{D026C0DD-A909-456D-B27F-29F2119F7D80}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D026C0DD-A909-456D-B27F-29F2119F7D80}.Debug|Win32.Build.0 = Debug|Win32
+		{D026C0DD-A909-456D-B27F-29F2119F7D80}.Release|Win32.ActiveCfg = Release|Win32
+		{D026C0DD-A909-456D-B27F-29F2119F7D80}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{798429D6-173F-4A02-A3C6-116148B336CD} = {22B3C7C7-A603-42D1-B7EB-0F54971728BB}
+		{D026C0DD-A909-456D-B27F-29F2119F7D80} = {05211123-D95B-45F1-84A2-B25FF51F851C}
 	EndGlobalSection
 EndGlobal
