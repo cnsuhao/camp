@@ -10,6 +10,9 @@
     <Filter Include="include\camp">
       <UniqueIdentifier>{f4ba74bb-03cd-40b5-a488-5b14f36cab8a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="include\camp\detail">
+      <UniqueIdentifier>{c23f81c3-082e-4a86-91b0-48208755424e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\src\error.cpp">
@@ -37,6 +40,15 @@
     </ClInclude>
     <ClInclude Include="..\..\include\camp\class.hpp">
       <Filter>include\camp</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\include\camp\detail\issmartpointer.hpp">
+      <Filter>include\camp\detail</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\include\camp\detail\yesnotype.hpp">
+      <Filter>include\camp\detail</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\include\camp\detail\rawtype.hpp">
+      <Filter>include\camp\detail</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
