@@ -8,6 +8,7 @@
 #include "camp/detail/objecttraits.hpp"
 #include "camp/detail/typeid.hpp"
 #include "camp/detail/observernotifier.hpp"
+#include "camp/detail/returntype.hpp"
 
 void foo()
 {
