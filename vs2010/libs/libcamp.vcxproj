@@ -19,7 +19,10 @@
     <ClInclude Include="..\..\include\camp\class.hpp" />
     <ClInclude Include="..\..\include\camp\config.hpp" />
     <ClInclude Include="..\..\include\camp\detail\issmartpointer.hpp" />
+    <ClInclude Include="..\..\include\camp\detail\objecttraits.hpp" />
+    <ClInclude Include="..\..\include\camp\detail\observernotifier.hpp" />
     <ClInclude Include="..\..\include\camp\detail\rawtype.hpp" />
+    <ClInclude Include="..\..\include\camp\detail\typeid.hpp" />
     <ClInclude Include="..\..\include\camp\detail\yesnotype.hpp" />
     <ClInclude Include="..\..\include\camp\error.hpp" />
     <ClInclude Include="..\..\include\camp\errors.hpp" />

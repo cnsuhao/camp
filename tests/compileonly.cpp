@@ -5,6 +5,9 @@
 #include "camp/detail/yesnotype.hpp"
 #include "camp/detail/issmartpointer.hpp"
 #include "camp/detail/rawtype.hpp"
+#include "camp/detail/objecttraits.hpp"
+#include "camp/detail/typeid.hpp"
+#include "camp/detail/observernotifier.hpp"
 
 void foo()
 {

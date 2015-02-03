@@ -50,6 +50,15 @@
     <ClInclude Include="..\..\include\camp\detail\rawtype.hpp">
       <Filter>include\camp\detail</Filter>
     </ClInclude>
+    <ClInclude Include="..\..\include\camp\detail\objecttraits.hpp">
+      <Filter>include\camp\detail</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\include\camp\detail\typeid.hpp">
+      <Filter>include\camp\detail</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\include\camp\detail\observernotifier.hpp">
+      <Filter>include\camp\detail</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="..\..\include\camp\error.inl">
